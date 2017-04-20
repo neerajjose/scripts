@@ -1,2 +1,2 @@
-# scripts
+# Scripts
 General Bash Scripts
